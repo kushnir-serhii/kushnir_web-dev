@@ -21,7 +21,7 @@ export const HeaderNavMenu: React.FC = () => {
       <NavItem>
         <Link
           aria-label=" Link to GitHub"
-          href="https://github.com/Sergiy5"
+          href="https://github.com/kushnir-serhii"
           target="_blank"
           rel="noopener noreferrer"
           className="p-2"
