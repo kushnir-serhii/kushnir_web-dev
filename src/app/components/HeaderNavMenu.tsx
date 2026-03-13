@@ -2,7 +2,6 @@ import Link from "next/link";
 import { NavItem } from "./HeaderNavItem";
 
 export const HeaderNavMenu: React.FC = () => {
-  
   return (
     <nav
       aria-label="Nav menu"
